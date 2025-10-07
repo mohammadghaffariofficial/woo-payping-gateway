@@ -1,11 +1,27 @@
-/*
-Plugin Name: افزونه پرداخت پی‌پینگ نسخه اصلاح شده
-Version: 1.1
-Description: افزونه درگاه پرداخت پی‌پینگ برای ووکامرس با گزینه‌های جدید و رفع باگ کال‌بک برای ووکامرس قدیمی
-Plugin URI: https://www.payping.ir/
-Author: Rick Sanchez
-Author URI: http://m4tinbeigi.ir
-Text Domain: woo-payping-gateway
+=== افزونه پرداخت پی‌پینگ نسخه اصلاح شده ===
+Contributors: yourusername
+Tags: woocommerce, payment-gateway, payping, ecommerce
+Requires at least: 5.0
+Tested up to: 6.6
+Requires PHP: 7.2
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
-*/
+
+افزونه درگاه پرداخت پی‌پینگ برای ووکامرس با گزینه‌های جدید و رفع باگ کال‌بک برای ووکامرس قدیمی.
+
+== Description ==
+این افزونه امکان پرداخت از طریق درگاه پی‌پینگ را به فروشگاه‌های ووکامرس اضافه می‌کند. با قابلیت پشتیبانی از ارزهای ایرانی و رفع مشکلات نسخه‌های قدیمی ووکامرس.
+
+== Installation ==
+1. افزونه را از مخزن وردپرس دانلود کنید.
+2. فایل زیپ را در بخش افزونه‌های وردپرس آپلود و فعال کنید.
+3. به تنظیمات ووکامرس > پرداخت‌ها بروید و درگاه پی‌پینگ را پیکربندی کنید.
+
+== Changelog ==
+= 1.1 =
+* رفع مشکل کال‌بک در نسخه‌های قدیمی ووکامرس.
+* اضافه شدن پشتیبانی از سرورهای خارجی.
+
+= 1.0 =
+* انتشار اولیه افزونه.
